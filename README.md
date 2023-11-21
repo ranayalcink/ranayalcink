@@ -15,7 +15,7 @@ Business & Data Analyst
 
 - **Data Manipulation:** SQL, Excel
 - **Data Visualization:** Tableau, PowerBI
-- **Programming Languages:** Python
+- **Programming Languages:** Python, Matlab
 - **Notebook Environment:** Jupyter
 
 ## 📬 Let's Connect
