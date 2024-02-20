@@ -13,10 +13,32 @@ Business & Data Analyst
 
 ## 🚀 Technical Expertise
 
-- **Data Manipulation:** SQL, Excel
-- **Data Visualization:** Tableau, PowerBI
-- **Programming Languages:** Python, Matlab
-- **Notebook Environment:** Jupyter
+**Programming Languages**
+- Python
+  
+**Python Packages**
+- NumPy
+- Pandas
+- SciPy
+- Seaborn
+- Matplotlib
+- Statsmodels
+- Scikit-learn
+  
+**Machine Learning Models**
+- Regression (Linear, Logistic)
+- Naive Bayes
+- Decision Trees
+- Random Forest
+- AdaBoost
+- XGBoost
+  
+**Integrated Data Analytics Stack**
+- SQL
+- Excel
+- Tableau
+- PowerBI
+- Jupyter
 
 ## 📬 Let's Connect
 
