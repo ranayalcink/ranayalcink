@@ -9,7 +9,7 @@ Business & Data Analyst
 "Hello, I am a Business and Data Analyst with a background in Industrial Engineering. I have a passion for crafting narratives from complex datasets. I use SQL and Excel to manage datasets and leverage Tableau and PowerBI to convey my stories."
 
 *   📌  [Click](https://public.tableau.com/app/profile/ranayalcinkaya) to see my Tableau Portfolio!
-*   📌  [Click]((https://www.kaggle.com/ranayalcinkaya)) to see my Kaggle Profile!
+*   📌  [Click](https://www.kaggle.com/ranayalcinkaya) to see my Kaggle Profile!
                  
 
 ## 🚀 Technical Expertise
